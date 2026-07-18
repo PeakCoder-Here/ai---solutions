@@ -1,2 +1,8 @@
 .env
 vendor/
+
+# Feedback Analyzer (Python)
+feedback-analyzer/.venv/
+feedback-analyzer/__pycache__/
+feedback-analyzer/feedback_report.xlsx
+feedback-analyzer/sentiment_breakdown.png
